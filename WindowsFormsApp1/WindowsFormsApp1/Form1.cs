@@ -19,12 +19,12 @@ namespace WindowsFormsApp1
 
         private void navigationPage2_Paint(object sender, PaintEventArgs e)
         {
-            int a = 14;
+            
         }
 
         private void labelControl1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World");
+            
         }
     }
 }
